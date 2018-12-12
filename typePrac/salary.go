@@ -44,5 +44,3 @@ func main(){
 	employees := []SalaryCalculator{jst, heshan, longqin}
 	totalExpense(employees)
 }
-
-ls
